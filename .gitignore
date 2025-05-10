@@ -1,4 +1,5 @@
 # The canonical out-of-tree build subdirectory
+bin
 build
 build-*
 
